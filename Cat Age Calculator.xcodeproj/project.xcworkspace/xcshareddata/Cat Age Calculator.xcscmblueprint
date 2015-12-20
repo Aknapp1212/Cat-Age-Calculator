@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B459450B43355ACF9404BF9121A78EAA4AFFEA9D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B459450B43355ACF9404BF9121A78EAA4AFFEA9D" : 0,
+    "129E7529D2204668D9A5D50E2DE78B52D073A562" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C3E53865-E836-4CB9-92E0-CD7BF3556804",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B459450B43355ACF9404BF9121A78EAA4AFFEA9D" : "Cat%20Age%20Calculator\/",
+    "129E7529D2204668D9A5D50E2DE78B52D073A562" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Cat Age Calculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Cat Age Calculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Aknapp1212\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "129E7529D2204668D9A5D50E2DE78B52D073A562"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Aknapp1212\/Cat-Age-Calculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B459450B43355ACF9404BF9121A78EAA4AFFEA9D"
+    }
+  ]
+}

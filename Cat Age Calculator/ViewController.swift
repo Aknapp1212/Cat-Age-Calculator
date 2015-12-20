@@ -10,19 +10,23 @@ import UIKit
 
 class ViewController: UIViewController {
     
-   
-    
     @IBOutlet var actualYears: UITextField!
+    
     @IBOutlet var humanYears: UILabel!
-    @IBAction func Submit_btn(sender: AnyObject) {
+    
+    @IBAction func submit(sender: AnyObject) {
         
+        var catAge = Int(actualYears.text!)!
+        
+        catAge = catAge * 7
+        
+        humanYears.text = "Your Cat is \(catAge) in cat Years"
     }
-    
-    
 
     override func viewDidLoad() {
+        print("app loaded")
         super.viewDidLoad()
-        print("App loaded")
+        // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
